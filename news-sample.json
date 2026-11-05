@@ -1,0 +1,7 @@
+{
+  "note": "TEST DATA ONLY, not real news",
+  "version": 1,
+  "items": [
+    { "title": "หัวข้อทดสอบ ไม่ใช่ข่าวจริง", "source": "ทดสอบระบบ", "url": "https://example.com/" }
+  ]
+}
